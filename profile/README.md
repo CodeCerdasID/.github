@@ -1,4 +1,4 @@
-# 👋 Selamat Datang di **CodeCerdasID**
+# 👋 Selamat Datang di **CodeCerdas.id**
 
 ## Tentang Kami
 
