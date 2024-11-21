@@ -30,21 +30,6 @@ Kami mengundang semua siswa, pemula, maupun penggiat teknologi untuk bergabung. 
 
 ---
 
-## 📚 Sumber Belajar
-
-Kami menyediakan berbagai sumber daya yang mendukung proses belajar Anda:
-
-- [Proyek Open Source](https://github.com/CodeCerdasID)  
-  Eksplorasi proyek-proyek untuk kontribusi.
-
-- [Forum Diskusi](https://github.com/CodeCerdasID/discussions)  
-  Tempat berbagi dan berdiskusi.
-
-- [Panduan Kontribusi](CONTRIBUTING.md)  
-  Panduan lengkap untuk memulai kontribusi Anda.
-
----
-
 ## 🎉 Mengapa Bergabung?
 
 - Belajar coding secara **praktis** melalui proyek nyata.  
